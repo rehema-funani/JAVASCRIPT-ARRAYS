@@ -1,8 +1,8 @@
 let arr1 = [3,7,34,90,12];
-console.log(arr1.slice(4));
+console.log(arr1.slice(-1));
 
 let arr2 = [true,"green","where",12,56]
-console.log(arr2.slice(4));
+console.log(arr2.slice(-1));
 
 let stringMyPets = ["cow","bad","snake","dog"];
 console.log(stringMyPets.join());
